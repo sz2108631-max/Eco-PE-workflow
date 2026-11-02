@@ -1,4 +1,4 @@
-# Weixuan Empirical Workflow
+# Empirical Workflow
 
 **从研究问题到可复现结果的经济学实证技能包。**
 
