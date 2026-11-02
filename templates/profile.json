@@ -1,0 +1,13 @@
+{
+  "language": "zh-CN",
+  "primary_engine": "Stata",
+  "alternative_engines": [
+    "R",
+    "Python"
+  ],
+  "writing": "economics-paper",
+  "policy": "identification-first",
+  "field": null,
+  "journal": null,
+  "notes": "初始默认值，可由用户修改；不预设研究设计。"
+}
