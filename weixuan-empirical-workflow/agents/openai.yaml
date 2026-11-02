@@ -1,0 +1,4 @@
+interface:
+  display_name: "Weixuan 经济学实证工作流"
+  short_description: "识别、数据、估计、写作与复现的一体化实证技能"
+  default_prompt: "使用 $weixuan-empirical-workflow 审计研究设计与现有材料，执行可行步骤，交付可复现的经济学实证项目。"
